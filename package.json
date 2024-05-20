@@ -1,0 +1,15 @@
+{
+    "name": "clarivate-prueba",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "dev": "node src/index.js",
+      "test": "jest"
+    },
+    "author": "Fernando Marín",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^29.7.0"
+    }
+  }
