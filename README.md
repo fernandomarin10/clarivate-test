@@ -14,7 +14,6 @@ Dependencies installation and configuration.
 
 ```bash
 npm install --save-dev jest
-npm init jest@latest
 ```
 
 ## Usage
